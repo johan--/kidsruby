@@ -21,7 +21,7 @@ GEM
     r18n-core (1.0.0)
     r18n-desktop (1.0.0)
       r18n-core (= 1.0.0)
-    rake (0.8.7)
+    rake (12.3.3)
     rb-fchange (0.0.5)
       ffi
     rb-fsevent (0.9.3)
@@ -43,7 +43,7 @@ DEPENDENCIES
   minitest (~> 2.0)
   mocha (= 0.12.10)
   qtbindings
-  rake (= 0.8.7)
+  rake (= 12.3.3)
   rb-fchange
   rb-fsevent (~> 0.9.3)
   rb-inotify
